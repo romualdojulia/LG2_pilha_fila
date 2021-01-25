@@ -1,13 +1,12 @@
 # LG2_pilha_fila
 exemplos dos vídeos
 
-*Código da classe Pilha*
+/Código da classe Pilha/
 
 import java.util.LinkedList;
 import java.util.List;
 
 public class Pilha {
-
 	private List<String> nomes = new LinkedList<String>();
 	
 	public void push(String nome) {
@@ -27,7 +26,7 @@ public class Pilha {
 	}
 }
 
-*/Código fonte para testar a classe Pilha/*
+/Código fonte para testar a classe Pilha/
 
 import java.util.Stack;
 
@@ -69,7 +68,6 @@ public class TesteDaPilha {
 		
 		System.out.println(stack);
 	}
-
 }
 
 *Código da classe Fila*
